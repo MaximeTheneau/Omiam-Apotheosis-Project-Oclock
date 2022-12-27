@@ -1,10 +1,11 @@
-# Apotheosis project Oclock Front
+# Omiam Apotheosis project Oclock 
 
 Projet réaliser lors de l'apothéose durant la formation chez [O'Clock](https://oclock.io/)
 
 
 ## [Demo partie Front](https://omiam.theneaumaxime.fr/)
-
+![Demo Omiam](./docs/front.gif)
+![Demo Omiam](./docs/back.gif)
 ---
 
 [Repository Front-End](https://github.com/MaximeTheneau/Apotheosis-Project-Oclock-Front)
@@ -15,14 +16,9 @@ Projet réaliser lors de l'apothéose durant la formation chez [O'Clock](https:/
 
 ## Langages utilisés 
 
-### Front
-
 - [React](https://fr.reactjs.org/)
 - [Redux](https://react-redux.js.org/)
 - [Axios](https://axios-http.com/)
-
-### Back
-
 - [Symfony](https://fr.reactjs.org/)
 
 ## Auteurs
