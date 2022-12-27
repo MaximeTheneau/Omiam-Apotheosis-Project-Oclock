@@ -13,10 +13,6 @@ Projet réaliser lors de l'apothéose durant la formation chez [O'Clock](https:/
 
 ---
 
-### Wireframe
-
-[![Wireframe](/docs/wireframes/home.mobile.png)](/docs/)
-
 ## Langages utilisés 
 
 ### Front
